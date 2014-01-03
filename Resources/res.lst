@@ -1,0 +1,55 @@
+.res RES_BG
+.image "bg.png"
+
+.res RES_SNOWBALL_1
+.image "sb1.png"
+.res RES_SNOWBALL_2
+.image "sb2.png"
+.res RES_SNOWBALL_3
+.image "sb3.png"
+.res RES_SNOWBALL_4
+.image "sb4.png"
+.res RES_SNOWBALL_5
+.image "sb5.png"
+.res RES_SNOWBALL_6
+.image "sb6.png"
+.res RES_SNOWBALL_7
+.image "sb7.png"
+.res RES_SNOWBALL_8
+.image "sb8.png"
+
+.res RES_SLEDGE_1
+.image "sl1.png"
+.res RES_SLEDGE_2
+.image "sl2.png"
+.res RES_SLEDGE_3
+.image "sl3.png"
+.res RES_SLEDGE_4
+.image "sl4.png"
+.res RES_SLEDGE_5
+.image "sl5.png"
+.res RES_SLEDGE_6
+.image "sl6.png"
+
+.res RES_LOGO
+.image "logo.png"
+.res RES_RUNDA
+.image "runda.png"
+.res RES_PUNKTACJA
+.image "punktacja.png"
+.res RES_SPLASH
+.image "plama.png"
+.res RES_SPLASH_M
+.image "plama_m.png"
+.res RES_GIFT
+.image "gift.png"
+
+.res AUDIO_MUSIC
+.media "audio/mpeg", "music.mp3"
+.res AUDIO_HIT
+.media "audio/x-wav", "hit.wav"
+.res AUDIO_THROW
+.media "audio/x-wav", "throw.wav"
+
+.res RES_INFO
+.image "info.png"
